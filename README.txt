@@ -8,5 +8,6 @@ test feature1 merge
 test merge --no--ff
 bug_fixed
 test stash
+add a line in master
 
 
